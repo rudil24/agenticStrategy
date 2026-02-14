@@ -64,11 +64,11 @@ I'm picking those because I think they "win" in the end, for software app develo
 #### Google Stack (using Google AI tools wherever possible)
 
 #### Claude Stack (hybrid best-in-class)
-Google Stack
 
 #### Deployment Environments
-Serverless: AWS, Azure, Google Cloud, 
-Firebase, Heroku, Netlify, PythonAnywhere, Railway, Render, Vercel, ...
+
+Serverless: AWS, Azure, Google Cloud,
+Platform as a Service: Firebase, Heroku, Hostinger, Netlify, PythonAnywhere, Railway, Render, Vercel, ...
 
 ### Key Outputs
 
@@ -76,4 +76,9 @@ Firebase, Heroku, Netlify, PythonAnywhere, Railway, Render, Vercel, ...
 
 ## References
 
-* [Claude Opus 4.6 In Depth Agentic Testing - John Sorrentino](https://www.youtube.com/watch?v=9ac8NLqMkGsP)
+* [How ClaudeCode Works](https://code.claude.com/docs/en/how-claude-code-works)
+* [YouTube: Anthropic's 7 Hour Claude Course in 27 minutes](https://www.youtube.com/watch?v=XuSFUvUdvQA)
+* [YouTube: Every Level of Claude Code Explained in 39 Minutes](https://www.youtube.com/watch?v=Y09u_S3w2c8)
+* [YouTube: Learn 90% Of Claude Code Agent Teams in 22 Minutes (Opus 4.6)](https://www.youtube.com/watch?v=cSkoaCCmq0w)
+* [Use Claude Code in VS Code](https://code.claude.com/docs/en/vs-code)
+* [YouTube: Claude Opus 4.6 In Depth Agentic Testing - John Sorrentino](https://www.youtube.com/watch?v=9ac8NLqMkGsP)
