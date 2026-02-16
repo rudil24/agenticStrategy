@@ -1,6 +1,6 @@
 # One Person Software Team - rudil24
 
-This repository is mainly markdown text, it describes and archives how I'm building an agentic software team and improving the agentic workflows in my team iteratively over a number of projects.
+This repository describes how I'm incrementally building an agentic software team and iteratively improving the agentic workflows over a number of projects.
 
 ## Background
 
@@ -9,9 +9,9 @@ You can see more about [my background](./background.md) and what brought me to d
 
 ## Project Goals
 
-1. My current goal is to reduce friction between human and agentic work in tech fields, specifically software research and development, to make truly sublime agentic workflows, by iterating on my current clunky workflows as I make some useful and/or fun projects that serve a productivity and/or entertainment purpose in my life and those around me.
+1. My current goal is to create sublime agentic workflows, specifically for software research and development. I plan to do that by iterating on my current clunky workflows, as I work through useful and/or fun projects that serve a productivity and/or entertainment purpose in my life and those around me.
 
-2. My long-term goal is to look at the viability of building a business with that team, with like-minded individuals who want to make humans and AI mesh into something that pushes humanity and industry forward, and hopefully AWAY from something that looks like Mad Max.
+2. My long-term goal is to build a viable business with the hardened team and workflows I create, with like-minded individuals who want to make humans and AI mesh into something that pushes humanity and industry forward, and hopefully AWAY from something that looks like Mad Max Fury Road.
 
 ## Rev 0.1
 
@@ -60,6 +60,7 @@ then it uses a viable option. example: FLUX instead of Google NanoBanana for ima
 
 Serverless: AWS, Azure, Google Cloud,
 Platform as a Service: Firebase, Heroku, Hostinger, Netlify, PythonAnywhere, Railway, Render, Vercel, ...
+I did a breakdown of how to host python/flask apps on [Python-primed PaaS](https://github.com/rudil24/pythonCourse/blob/main/solutions/day071/README.md)
 
 ### Key Outputs
 
