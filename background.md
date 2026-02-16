@@ -1,5 +1,9 @@
 # Background - rudil24
 
+I'm a career engineer who's been in tech since 1990 and done everything from transmission & voice network provisioning to C-suite a couple of tech-driven companies.
+
+## what brought me to driving daily toward agentic software development
+
 This started in July 2024 after I was WFR'ed from Intuit. After a month of feeling sorry for myself,
 I wrote this on some site somewhere:
 > __My Why:__

@@ -1,33 +1,35 @@
-# One Person Software Team - rudil24
+# One Person Software Team - Rudi Lewis
 
-This repository describes how I'm incrementally building an agentic software team and iteratively improving the agentic workflows over a number of projects.
-
-## Background
-
-I'm a career engineer who's been in tech since 1990 and done everything from transmission & voice network provisioning to C-suite a couple of tech-driven companies.
-You can see more about [my background](./background.md) and what brought me to driving daily toward agentic software development.
+This repo documents how I'm building an AI software team and improving the agentic workflows iteratively over a number of projects. You can see more about [my background](./background.md).
 
 ## Project Goals
 
-1. My current goal is to create sublime agentic workflows, specifically for software research and development. I plan to do that by iterating on my current clunky workflows, as I work through useful and/or fun projects that serve a productivity and/or entertainment purpose in my life and those around me.
+1. My current goal is to create __*silky smooth agent-powered workflows*__, specifically in the software space. To achieve this, I'll iterate on my current clunky workflows, as I work through useful and/or fun projects that serve a productivity and/or entertainment purpose in my life and those around me.
 
-2. My long-term goal is to build a viable business with the hardened team and workflows I create, with like-minded individuals who want to make humans and AI mesh into something that pushes humanity and industry forward, and hopefully AWAY from something that looks like Mad Max Fury Road.
+2. My long-term goal is to build or join a viable business with the hardened team and workflows I create, with like-minded individuals who want to steer the world toward human/AI harmony, and hopefully __NOT__ "Beyond Thunderdome".
 
-## Rev 0.1
+## Rev 0.1: Vibe + Chat
 
-My first effort wasn't really a team as much as a Gemini chat session to build a quick & dirty 100% client-side [fantasy draft ping pong ball hopper](https://github.com/rudil24/draftballs) as I was learning React. That's when the idea hit me I wanted something more than chat+vibe to make projects, I wanted a full scrum team.
+My first effort wasn't really a team as much as a Gemini chat session to build a quick & dirty 100% client-side [fantasy draft ping pong ball hopper](https://github.com/rudil24/draftballs), as I was learning React. It helped me see I wanted something more than chat + vibing to make things, I wanted to build an AI scrum team.
 
-## Rev 0.2
+## Rev 0.2: Anatomy of a Team
 
-I worked with Gemini 2.5 to create a ["team" roster (initial version)](https://github.com/rudil24/guestbook/tree/main/team) to create a simple javascript full stack [guestbook demo](https://github.com/rudil24/guestbook). I envisioned having an AI team lead named "Cap" manage the action of the other experts. But all it really became was me talking to chat in left pane as it drooped below the counter and put on a new hat like a Monty Python hotel sketch. "activate agent Nexus" just wasn't what I was going for.
+I worked with Gemini 2.5 to create a ["team" roster (initial version)](https://github.com/rudil24/guestbook/tree/main/team) and we worked together through interactive prompts to create a simple javascript full stack [guestbook demo](https://github.com/rudil24/guestbook). I envisioned having an agent lead the action of agent experts. But all it really became was me talking to Gemini in a chat pane, then Gemini would drop below the counter and put on a new hat like a Monty Python hotel sketch. Me having to "Deactivate agent Stella. Activate agent Nexus" and micro-manage every task got the project done, but with too much effort on my part.
 
-## My One Person Environment Rev 0.2 → 0.3
+## Rev 0.3: I Plan, You Do
 
-For Rev 0.3, I'm looking to 
+I worked through the first 80 days of 100 Days of Code learning the Python language while refining my approach. I tried to NOT do interactive chat, other than a single prompt that pointed Gemini to a README.md for each project (kind of a combined Product Requirements Doc an Design/Dev Workflow doc all in one. Example 1, Example 2, Example 3.)
 
-![OnePersonSW_05_Dark.svg](OnePersonSW_05_Dark.svg)
+## Rev 0.4: One Team, Two Stacks
+
+The strategy is to build __one team__ that grows its __knowledge, memory, and teamwork__ as it works through successive projects, independent of the AI-enabled product development "stack" it is using. Can I build a true agentic team that will coordinate efforts AND work autonomously, within scope, and take that knowledge forward for future projects? Anthropic thinks I can, __if__ I use Claude Code and the latest (Opus 4.6) tools. Google also thinks I can, __if__ I use their new Antigravity integrated development environment (IDE) combined with their Gemini 3.0 Pro agentic workflows. Who's right? Let's try both! 
 
 ### The Team
+
+
+
+* Google stack:
+* 
 
 #### Product Owner
 
@@ -35,13 +37,24 @@ For Rev 0.3, I'm looking to
 
 #### Team of Agent Specialists
 
-In my, the great instructor David McLachlan always talks about "T-shaped people". "T-shaped agents", they are all fluent in any of the coding languages I know,
+In my, the great instructor [David McLachlan](https://www.youtube.com/channel/UC8uqqZwyoW303ZeWyUiNdMg) always talks about "T-shaped people". "T-shaped agents", they are all fluent in any of the coding languages I know,
 but
 
-### The Workload - Current and Future
+![OnePersonSW_05_Dark.svg](OnePersonSW_05_Dark.svg)
 
-Currently I'm coding projects, i want to move to agentic and do it in two paths: A Google path and a Claude path.
-I'm picking those because I think they "win" in the end, for software app development, at least.
+### The Process
+
+Project management
+
+* Scope & feasibility
+* Planning
+* Development
+* Test
+* Deploy. All of this is hokum if I don't __ship real code__.
+
+### The Workload
+
+
 
 ### The Tools
 
