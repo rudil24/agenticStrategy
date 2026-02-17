@@ -1,6 +1,6 @@
 # One Person Software Team - Rudi Lewis
 
-This repo captures how I'm building an AI software team and improving the agentic workflows iteratively over a number of projects. You can see more about [my background](./docs/background.md).
+This repo captures how I'm building an AI software team and improving the agentic workflows iteratively over a number of projects. You can see more about [my background](./docs/RLbackground.md).
 
 ## Project Goals
 
@@ -10,7 +10,7 @@ This repo captures how I'm building an AI software team and improving the agenti
 
 ## Rev 0.1: Vibe + Chat (Aug 2025)
 
-My first effort wasn't really a team as much as a Gemini chat session to build a quick & dirty 100% client-side [fantasy draft ping pong ball hopper](https://github.com/rudil24/draftballs), as I was learning React. It helped me see I wanted something more than chat + vibing to make things, I wanted to build an AI scrum team.
+My first effort wasn't really a team as much as a Gemini chat session to build a quick & dirty 100% client-side [fantasy draft ping pong ball hopper](https://github.com/rudil24/draftballs), as I was learning the React front-end library. It helped me see I wanted something more than chat + vibing to make things, I wanted to build a world class AI scrum team.
 
 ## Rev 0.2: Anatomy of a Team (Oct 2025)
 
@@ -18,35 +18,52 @@ I worked with Gemini 2.5 to create a ["team" roster (initial version)](https://g
 
 ## Rev 0.3: I Plan, You Do (Jan 2026)
 
-I worked through the first 80 days of 100 Days of Code learning the Python language while refining my approach. I tried to NOT do interactive chats (other than for bug convos), and NOT to focus on the pseudo-team but work on my planning and setup instead. Instead, I'd pre-plan and start the project with a single prompt that pointed Gemini to a README.md that served as kind of a combined Product Requirements Doc and Design/Dev Workflow doc. Examples:
+I worked through the first 80 days of Python 100 Days of Code learning the Python language while refining my approach. I tried to NOT do interactive chats (other than for bug convos), and NOT to focus on the pseudo-team, but work on the planning and setup to give the AI everything they needed to "go do". This led to a good project flow of me delivering a single prompt that pointed Gemini to the project README.md that served as kind of a combined Product Requirements Doc and Design/Dev Workflow doc. Here are examples of this "README.md" and the dev workflows it drove to highly successful outcomes:
 
-* [day031](https://github.com/rudil24/pythonCourse/tree/main/solutions/day031)
-* [day064](https://github.com/rudil24/pythonCourse/tree/main/solutions/day064)
-* [day082](https://github.com/rudil24/morse_code)
+* [day031](https://github.com/rudil24/pythonCourse/tree/main/solutions/day031) Language Flash Cards desktop app
+* [day064](https://github.com/rudil24/pythonCourse/tree/main/solutions/day064) Top 10 Movies database/web app
+* [day082](https://github.com/rudil24/morse_code) Morse code Translator terminal-based app
 
-## Rev 0.4: One Team, Two Stacks (Feb 2026)
+These were all pretty straightforward projects without the need for a lot of design, planning, and user testing, so the "1-pager" README really worked well. It will be interesting to see how far I can take that paradigm.
 
-With only a couple weeks left in the Python 100 Course, the assignments get more complex. It's time to transition to agentic teams. The strategy is to build __one team__ that grows its __knowledge, memory, and teamwork__ as it works through successive projects. The team should be uncoupled from the AI-enabled product development tools "stack" it is using. In other words, the knowledge and skills stays with the team, and they should be able to plug and play into different dev languages and tool environments.
+## Rev 0.4: One Team, Two Dev Stacks (Feb 2026)
 
-Can I build a true agentic team that will coordinate efforts AND work autonomously, within scope, and take that knowledge forward for future projects? Anthropic thinks I can, __if__ I use Claude Code and the latest (Opus 4.6) tools. Google also thinks I can, __if__ I use their new Antigravity integrated development environment (IDE) combined with their Gemini 3.0 Pro agentic workflows. Who's right? Let's try both! I'll use:
+With only a couple weeks left in the Python 100 Days Course, the assignments get more complex. Which means there's a lot of learning and growing I'm missing out on by not having a team suffer through it together 🙂. It's time to transition to agentic teams. The strategy is to build __one team__ that grows its __knowledge, memory, and teamwork__ as it works through successive projects.
 
-* A __Google__ "integrated" stack featuring Google Antigravity IDE, Google Stitch for wireframes, Google AI Studio for any multimedia assets, and Google CLI for managing the team and the action at the command line.
-* A __Claude Code__ "best in class" stack that features the tried and true VS Code for the IDE, Figma for wireframes, a Flux2 integration with Black Forest Labs for graphics needs, and of course Claude Code managing the team and the action at the command line.
+The team and the process should be uncoupled from the AI-enabled product development tool "stack" it is using. In other words, the knowledge and skills and process flows stay with the team, and they should be able to plug and play into different dev languages, tools, and tool environments, depending on the project, while always maintaining access to their process, skills, and their "memory" of what they've learned through successful AND non-successful projects.
 
-For more details about the dev tools, see [docs/devTools.md](./docs/devtools.md)
-
-My hope is that 
+The intent is to optimize the human workload and focus where it's advantageous to have the human thinking (creativity and strategy), while continuously optimizing the AI processes to take on everything else from the human (project management, coding, testing, deployment, marketing, support, accounting, ...).
 
 ### The Team
 
-#### Product Owner
+* __Product Owner (O)__: This is the human in the loop, ultimately responsible for what the team creates and the tools and resources the team can use to create it.
+* __Team Lead Agent (TL)__: This agent drives what the team creates, in a mostly orchestration role. This agent's learning path is to always be striving to be a better driver and orchestrator, not necessarily an expert in the technical pieces.
+* __Team Specialist Agents (Ta..Tn)__: 
 
-#### Team Lead
+### The Process 
+
+
+
+### The Dev Stacks
+
+Can I build a true agentic team that will coordinate efforts AND work autonomously, within scope, and take that knowledge forward for future projects? Anthropic thinks I can, __if__ I use Claude Code and the latest (Opus 4.6) tools. Google also thinks I can, __if__ I use their new Antigravity integrated development environment (IDE) combined with their Gemini 3.0 Pro agentic workflows. Who's right? Let's try both!
+
+* A __Google__ "integrated" stack featuring *Google Antigravity* IDE, *Google Stitch* for wireframes, *Google AI Studio* for any multimedia assets, and *Google CLI* for managing the team and the action at the command line.
+* A __Claude Code__ "best in class" stack that features the tried and true *VS Code* for the IDE, *Claude Artifacts* + a tool integration with *Figma* for wireframes, tool integration(s) for multimedia needs (current thinking: *Flux2* from Black Forest Labs), and of course *Claude Code* managing the team and the action at the command line.
+
+#### One stack for each end-to-end project
+I plan to follow a project through from start to completion in one environment (but that's not written in stone.) As I go forward, I might find different strengths from different toolsets in different phases. For more details about the dev tools, see [docs/devTools.md](./docs/devtools.md)
+
+### The Team
+
+#### Team Lead ("Cap")
+
+
 
 #### Team of Agent Specialists
 
-In my, the great instructor [David McLachlan](https://www.youtube.com/channel/UC8uqqZwyoW303ZeWyUiNdMg) always talks about "T-shaped people". "T-shaped agents", they are all fluent in any of the coding languages I know,
-but
+The great project management instructor [David McLachlan](https://www.youtube.com/channel/UC8uqqZwyoW303ZeWyUiNdMg) always talks about the agile scrum concept of "T-shaped people", who are good generalists but have a few skills they can go drill deeper than others in the team, so that we get great coverage. "T-shaped agents", they are all fluent in any of the coding languages I know,
+but each has a specialty such as security or databases or testing.
 
 ![./docs/OnePersonSW_05_Dark.svg](./docs/OnePersonSW_05_Dark.svg)
 
@@ -60,7 +77,9 @@ Project management
 * Test
 * Deploy. All of this is hokum if I don't __ship real code__.
 
-### The Workload
+#### The Workload
+
+The conscious effort to lower the human 
 
 
 
