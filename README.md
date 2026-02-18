@@ -28,17 +28,17 @@ These were all pretty straightforward projects without the need for a lot of des
 
 ## Rev 0.4: One Team, Two Dev Stacks (Feb 2026)
 
-With only a couple weeks left in the Python 100 Days Course, the assignments get more complex. Which means there's a lot of learning and growing I'm missing out on by not having a team suffer through it together 🙂. It's time to transition to agentic teams. The strategy is to build __one team__ that grows its __knowledge, memory, and teamwork__ as it works through successive projects.
+With only a couple weeks left in the Python 100 Days Course, the assignments get more complex. Which means there's a lot of learning and growing I'm missing out on by not having a team suffer through it together 🙂. It's time to transition to agentic teams. The strategy is to build __one team__ that grows its __knowledge, memory, and teamwork__ as it works through successive projects. The most important aspect is this:
 
-The team and the process should be uncoupled from the AI-enabled product development tool "stack" it is using. In other words, the knowledge and skills and process flows stay with the team, and they should be able to plug and play into different dev languages, tools, and tool environments, depending on the project, while always maintaining access to their process, skills, and their "memory" of what they've learned through successful AND non-successful projects.
+> The team and the process should be uncoupled from the AI-enabled product development tool "stack" it is using. In other words, the knowledge and skills and process flows stay with the team, and they should be able to plug and play into different dev languages, tools, and tool environments, depending on the project, while always maintaining access to their process, skills, and their "memory" of what they've learned through successful AND non-successful projects.
 
-The intent is to optimize the human workload and focus where it's advantageous to have the human thinking (creativity and strategy), while continuously optimizing the AI processes to take on everything else from the human (project management, coding, testing, deployment, marketing, support, accounting, ...).
+That way, we optimize the human workload and focus where it's advantageous to have the human thinking (creativity and strategy), while continuously optimizing the AI processes to take on everything else from the human (project management, coding, testing, deployment, marketing, support, accounting, and so on.)
 
 ### The Team
 
-* __Product Owner (O)__: This is the human in the loop, ultimately responsible for what the team creates and the tools and resources the team can use to create it.
-* __Team Lead Agent (TL)__: This agent drives what the team creates, in a mostly orchestration role. This agent's learning path is to always be striving to be a better driver and orchestrator, not necessarily an expert in the technical pieces.
-* __Team Specialist Agents (Ta..Tn)__: 
+* __Product Owner__: the human in the loop, ultimately responsible for what the team creates and the tools and resources the team can access to achieve their goals
+* __Team Lead Agent__: drives what the team creates __and the team learning path__, mostly functioning as an orchestrator looking for ways the O, TL, and Team can communicate and improve
+* __Team Specialist Agents__:  
 
 ### The Process 
 
