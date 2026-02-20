@@ -23,6 +23,7 @@ As a side quest i'll work to have the team comprise a list of web app hosting se
 * [YouTube: WorldofAI | How to Use Google's Antigravity Better than 99% of People](https://www.youtube.com/watch?v=TuIU3tVf7R0)
 * [YouTube: Anthropic's 7 Hour Claude Course in 27 minutes](https://www.youtube.com/watch?v=XuSFUvUdvQA)
 * [YouTube: Every Level of Claude Code Explained in 39 Minutes](https://www.youtube.com/watch?v=Y09u_S3w2c8)
+  * [notes on the above video](https://scrapeshq.notion.site/Every-Level-of-Claude-Code-Explained-in-39-Minutes-3007821711818048b119f78d5cc725ff)
 * [YouTube: Learn 90% Of Claude Code Agent Teams in 22 Minutes (Opus 4.6)](https://www.youtube.com/watch?v=cSkoaCCmq0w)
 * [Use Claude Code in VS Code](https://code.claude.com/docs/en/vs-code)
 * [YouTube: Claude Opus 4.6 In Depth Agentic Testing - John Sorrentino](https://www.youtube.com/watch?v=9ac8NLqMkGsP)
