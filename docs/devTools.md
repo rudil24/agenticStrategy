@@ -19,7 +19,8 @@ As a side quest i'll work to have the team comprise a list of web app hosting se
 
 * [How ClaudeCode Works](https://code.claude.com/docs/en/how-claude-code-works)
 * [Agent Manager in Google Antigravity](https://antigravity.google/docs/agent-manager)
-* [YouTube: How to Use Google's Antigravity Better than 99% of People](https://www.youtube.com/watch?v=TuIU3tVf7R0)
+* [YouTube: Duncan Rogoff | How to Use Google Antigravity Better than 99% of People! (8 hacks)](https://youtu.be/j8wdu5VTozs?si=77uyXcOZKbfeN4A6)
+* [YouTube: WorldofAI | How to Use Google's Antigravity Better than 99% of People](https://www.youtube.com/watch?v=TuIU3tVf7R0)
 * [YouTube: Anthropic's 7 Hour Claude Course in 27 minutes](https://www.youtube.com/watch?v=XuSFUvUdvQA)
 * [YouTube: Every Level of Claude Code Explained in 39 Minutes](https://www.youtube.com/watch?v=Y09u_S3w2c8)
 * [YouTube: Learn 90% Of Claude Code Agent Teams in 22 Minutes (Opus 4.6)](https://www.youtube.com/watch?v=cSkoaCCmq0w)
