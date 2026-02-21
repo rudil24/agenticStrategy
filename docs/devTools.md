@@ -1,11 +1,12 @@
-# Development Tools - Rudi Lewis
+# Development Tools - One Person Software Team
 
-Can I build a true agentic team that will coordinate efforts AND work autonomously, within scope, and take that knowledge forward for future projects? Anthropic thinks I can, __if__ I use Claude Code and the latest (Opus 4.6) tools. Google also thinks I can, __if__ I use their new Antigravity integrated development environment (IDE) combined with their Gemini 3.0 Pro agentic workflows. Who's right? Let's try both!
+Can I build a true agentic team that will coordinate efforts AND work autonomously, within scope, and take that knowledge forward for future projects? Anthropic thinks I can, __if__ I use Claude Code and the latest (Opus 4.6) agent tools. Google also thinks I can, __if__ I use their new Antigravity integrated development environment (IDE) combined with their Gemini ~~3.0~~ 3.1 Pro agentic workflows. Who's right? Let's try both!
 
-* A __Google__ "integrated" stack featuring *Google Antigravity* IDE, *Google Stitch* for wireframes, *Google AI Studio* for any multimedia assets, and *Google CLI* for managing the team and the action at the command line.
-* A __Claude Code__ "best in class" stack that features the tried and true *VS Code* for the IDE, *Claude Artifacts* + a tool integration with *Figma* for wireframes, tool integration(s) for multimedia needs (current thinking: *Flux.2* from Black Forest Labs), and of course *Claude Code* managing the team and the action at the command line.
+* A __Google__ "integrated" stack featuring *Google Antigravity* IDE, *Google Stitch* for wireframes, *Google AI Studio* for any multimedia assets, and *Antigravity Agent Manager* for managing the team and the action at the command line.
+  * another exciting feature of Antigravity is its integrated browser tool for research, testing, and debugging through a browser_subagent tool.
+* A __Claude Code__ "best in class" stack that features the tried and true *VS Code* for the IDE, *Claude Artifacts* and/or a MCP integration with *Figma* for wireframes, tool integration(s) for multimedia needs (current thinking: *Flux.2* from Black Forest Labs), and of course *Claude Code* and their *Agent Teams* function for managing the team and the action at the command line.
 
-![devTools_06_Dark.svg](devTools_06_Dark.svg)
+![devTools_07_Dark.svg](devTools_07_Dark.svg)
 
 For my Google "stack" I try to source Google products wherever I can. My Claude "stack" uses Claude/Anthropic products wherever it can, and best in class wherever it cannot (unless Google IS best in class, then it uses a viable option. example: FLUX instead of Google NanoBanana for image gen.)
 

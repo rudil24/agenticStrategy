@@ -35,6 +35,9 @@ Here's a breakdown of each level:
 ## Level 5: Move from Executor to Supervisor (GSD Framework) (26:18-29:34)
 
 * Introduces the GSD (Get Stuff Done) framework, which helps break down large projects into phases with detailed planning, execution, and verification steps.
+  * [Get Shit Done Github repo](https://github.com/gsd-build/get-shit-done)
+  * [Reddit post announcing GSD](https://www.reddit.com/r/ClaudeAI/comments/1q4yjo0/get_shit_done_the_1_cc_framework_for_people_tired/)
+  * [GSD for Antigravity](https://www.reddit.com/r/google_antigravity/comments/1qg7gwg/gsd_get_shit_done_for_antigravity/)
 * Addresses the "context rot" problem by keeping context in individual files and utilizing project documents (roadmap, requirements, state).
 
 ## Level 6: Agent Teams (29:34-35:57)
@@ -42,9 +45,11 @@ Here's a breakdown of each level:
 * Explains how to use specialized "sub-agents" to divide tasks, improve output quality, and increase processing speed.
 * Discusses running agents in sequence for collaboration or in parallel for faster completion of non-dependent tasks.
 * Introduces the dangerously-skip-permissions flag for autonomous operation (use with caution).
+  * invoked with: `claude --dangerously-skip-permissions`
 
 ## Level 7: Fully Autonomous Systems (RALF Loop) (35:57-39:09)
 
 * Describes the RALF (Run-Ask-Loop-Forward) loop, a bash script that enables Claude Code to continuously work until a specific condition is met.
 * Requires a prd.json (product requirements document) file to define user stories and acceptance criteria for tasks.
 * Differentiates RALF (executor for well-defined tasks) from GSD (planner and executor for larger, less defined projects).
+  * be sure to run ralph type loops with a *max iteration limit* and a *completion promise* to avoid racking up infinite loop charges!

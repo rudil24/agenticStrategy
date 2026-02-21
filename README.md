@@ -18,12 +18,12 @@ The strategy is to build __one team__ that grows its __knowledge, memory, and te
 
 ### Team Memory is Key
 
-> The team and the process should be uncoupled from the AI-enabled product development tool "stack" it is using. In other words, the knowledge and skills and process flows stay with the team, and they should be able to plug and play into different dev languages, tools, and tool environments, depending on the project, while always maintaining access to their process, skills, and their "memory" of what they've learned through successful AND non-successful projects.
+> The team and the process should be uncoupled from the AI-enabled product development tool "stack" it is using. In other words, the knowledge and skills and process flows stay with the team, and they should be able to plug and play into different dev languages, tools, and tool environments, depending on the project, while always maintaining access to their process, skills, tools, and their "memory" of what they've learned through successful AND non-successful projects.
 
 ### The Team
 
 * __Product Owner__: the human in the loop, ultimately responsible for what the team creates and the tools and resources the team can access to achieve their goals
-* __Team Lead Agent__: drives what the team creates __and documents the team's learning path__, mostly functioning as an orchestrator looking for ways the O, TL, and Team can communicate and improve
+* __Team Lead Agent__: drives what the team creates __and documents the team's learning path__, mostly functioning as an orchestrator looking for ways the Product Owner, Team Lead, and Team can communicate and improve
 * __Team Specialist Agents__: The great project management instructor [David McLachlan](https://www.youtube.com/channel/UC8uqqZwyoW303ZeWyUiNdMg) always talks about the agile scrum concept of "T-shaped people", who are good generalists but have a few skills they can go drill deeper than others in the team, so that we get great coverage. Our team is comprised of "T-shaped agents", they are all fluent in any of the coding languages, and can be assigend general tasks, but each has a specialty such as security or databases or testing.
 
 ### The Process
@@ -39,7 +39,7 @@ Using good project management skills, the team will move projects from stage to 
   * The graphical design and flow go into wireframes aka __UI/UX Mockups__
 * Development:
   * Deliver minimum viable product code that is functional, and ready to test end-to-end
-* Test: Use manual, agentic, and automated testing to sniff out bugs and problematic flows
+* Test: Use a combination of automated, agentic, and manual testing to sniff out bugs and problematic flows
   * Deliver "hardened" code that passes all user requirements for this version of the software.
 * Deploy. All of this is hokum if we don't __ship real code__.
   * hosting options and service price envelopes
@@ -61,7 +61,7 @@ For more details about the specific dev tools in my environment, see [docs/devTo
 
 ### Rev 0.4: One Team, Two Dev Stacks (Feb 2026)
 
-With only a couple weeks left in the Python 100 Days Course, the assignments get more complex. Which means there's a lot of learning and growing I'm missing out on by not having a team suffer through it together 🙂. It's time to transition to agentic teams. 
+With only a couple weeks left in the Python 100 Days Course, the assignments get more complex. Which means there's a lot of learning and growing I'm missing out on by not having a team suffer through it together 🙂. It's time to transition to agentic teams.
 We'll optimize the human workload and focus where it's advantageous to have the human thinking (creativity and strategy), while continuously optimizing the AI processes to take on everything else from the human (project management, coding, testing, deployment, marketing, support, accounting, and so on.) We'll optimize the development environment to try to use Google end-to-end in one instance, and Anthropic (Claude) plus best-in-class MCP connections for another stack. The intent is that either stack can be run on any project (not looking to combine stacks for phases/sections of a project...yet!)
 
 ### Rev 0.3: I Plan, You Do (Jan 2026)
