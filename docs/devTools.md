@@ -6,11 +6,11 @@ Can I build a true agentic team that will coordinate efforts AND work autonomous
   * another exciting feature of Antigravity is its integrated browser tool for research, testing, and debugging through a browser_subagent tool.
 * A __Claude Code__ "best in class" stack that features the tried and true *VS Code* for the IDE, *Claude Artifacts* and/or a MCP integration with *Figma* for wireframes, tool integration(s) for multimedia needs (current thinking: *Flux.2* from Black Forest Labs), and of course *Claude Code* and their *Agent Teams* function for managing the team and the action at the command line.
 
-![devTools_07_Dark.svg](devTools_07_Dark.svg)
+![OPST Dev Tools](OPST_DevTools.svg)
 
 For my Google "stack" I try to source Google products wherever I can. My Claude "stack" uses Claude/Anthropic products wherever it can, and best in class wherever it cannot (unless Google IS best in class, then it uses a viable option. example: FLUX instead of Google NanoBanana for image gen.)
 
-## One stack for each end-to-end project
+## Pick a stack per project
 
 I plan to follow a project through from start to completion in one environment (but that's not written in stone.) As I go forward, I might find different strengths from different toolsets in different phases.
 

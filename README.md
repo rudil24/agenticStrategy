@@ -10,7 +10,7 @@ This repo captures how I'm building an AI software team and improving the agenti
 
 3. My longterm goal isn't to replace software engineers with AI, but to greatly expand the skills, range, and speed with which each engineer can create, develop, and deploy for any project. You can see more about [my background](./docs/RLbackground.md) and how it's inspired me to go down this path.
 
-![./docs/OnePersonSW_09_Dark.svg](./docs/OnePersonSW_09_Dark.svg)
+![OPST Team](./docs/OPST_Team.svg)
 
 ## Project Concepts
 
@@ -30,8 +30,11 @@ The strategy is to build __one team__ that grows its __knowledge, memory, and te
 
 Using good project management skills, the team will move projects from stage to stage with key deliverables.
 
+![OPST Process](./docs/OPST_Process.svg)
+
 * Scope: Defines the customer, the project, and the feasability.
   * What we're building and most importantly __*who we're building it for*__ goes into a __Product Requirements Document__
+    * Getting to a good PRD is a challenge, we do it through a `project-kickoff` workflow that includes a `prd` skill.
   * Who we're going to need on the team for this project and their persona of skills goes into a __Team Roster__
   * What's it going to cost (in time and money) goes into a preliminary __Budget__ table
 * Design: Defines what the end product will look like and how we get there. Should give us enough of a feel that we feel confident in starting to build
