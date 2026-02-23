@@ -20,13 +20,13 @@ I wrote this on some site somewhere:
 
 With that I put together a learning plan:
 
-* Learned the PERN Stack and dabbled in blockchain development (Motoko)
+* [Learned the PERN Stack](https://github.com/rudil24/PERNBootCamp_DrYu) and dabbled in blockchain canister development (ICP/Motoko)
 * Learned prompt-window level LLM assistance at coding (GitHub copilot, WindSurf, Supermaven, and Gemini)
 * Messed around with some keystones & pet projects
 * Kept hitting the Copilot & Gemini free limits like a crack addict
 * Purchased Google AI Pro in August 2025
 * Made some more useful stuff
-* Went through entire Python training using markdown README.md's as PRD and Design Doc.
+* Went through entire [Python training first 80 of 100 days](https://github.com/rudil24/pythonCourse), first learning all the components, then using markdown README.md's as PRD and Design Doc for agent to build first revs.
   * didn't JUST use AI, got a solid working knowledge of the Python/Flask/SQLAlchemy Stack (and dabbled in data science via Jupyter Notebooks)
 
-So now I'm ready to go agentic!
+So now, with the Python course in the final weeks of keystone projects, what better time than now to go agentic!

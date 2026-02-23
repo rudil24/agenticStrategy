@@ -67,8 +67,8 @@ For more details about the specific dev tools in my environment, see [docs/devTo
 With only a couple weeks left in the Python 100 Days Course, the assignments get more complex. Which means there's a lot of learning and growing I'm missing out on by not having a team suffer through it together 🙂. It's time to transition to agentic teams.
 We'll optimize the human workload and focus where it's advantageous to have the human thinking (creativity and strategy), while continuously optimizing the AI processes to take on everything else from the human (project management, coding, testing, deployment, marketing, support, accounting, and so on.) We'll optimize the development environment to try to use Google end-to-end in one instance, and Anthropic (Claude) plus best-in-class MCP connections for another stack. The intent is that either stack can be run on any project (not looking to combine stacks for phases/sections of a project...yet!)
 
-* [tic-tac-toe](https://github.com/rudil24/pythonCourse/tree/main/solutions/tic-tac-toe) Completed using OPST 0.4 logic via Gemini Antigravity IDE
-* [img-watermark](https://github.com/rudil24/pythonCourse/tree/main/solutions/img-watermark) Completed using Tkinter/Pillow backend logic via Google Antigravity & AI Studio Gen Image
+* [tic-tac-toe](https://github.com/rudil24/tic-tac-toe) Completed using OPST 0.4 logic via Gemini Antigravity IDE
+* [img-watermark](https://github.com/rudil24/img-watermark) Completed using Tkinter/Pillow backend logic via Google Antigravity & AI Studio Gen Image
 
 ### Rev 0.3: I Plan, You Do (Jan 2026)
 
