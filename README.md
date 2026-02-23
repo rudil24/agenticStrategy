@@ -58,7 +58,7 @@ As mentioned in Team Memory, the team should be decoupled from any particular to
 
 Again, a key goal of Team Memory is to make sure that we're able to learn, adapt, and deliver regardless of the toolset, so learning how to do that is a major step in this Rev 0.4 of the process.
 
-For more details about the specific dev tools in my environment, see [docs/devTools.md](./docs/devtools.md)
+For more details about the specific dev tools in my environment, see [docs/devTools.md](./docs/devTools.md)
 
 ## Project Log (most recent first)
 
