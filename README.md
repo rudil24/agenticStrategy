@@ -60,6 +60,21 @@ Again, a key goal of Team Memory is to make sure that we're able to learn, adapt
 
 For more details about the specific dev tools in my environment, see [docs/devTools.md](./docs/devTools.md)
 
+### The Digital Footprint
+
+This is all good in theory but how do the bits/bytes actually come together.
+
+#### The Workbench
+
+The folders and files for my OPST installation. see [docs/bitsAndBytes.md](./docs/bitsAndBytes.md)
+
+#### The Runtime
+
+The source code can be either PERN, Python/Flask, or a combination of the two.
+(And really, it can be anything, those are just the two that I'm familiar and feel comfortable working in.)
+The runtimes can be deployed to any cloud provider, or run locally.
+See [docs/appHosting.md](./docs/appHosting.md) for more details.
+
 ## Project Log (most recent first)
 
 ### Rev 0.4: One Team, Two Dev Stacks (Feb 2026)
