@@ -84,6 +84,7 @@ We'll optimize the human workload and focus where it's advantageous to have the 
 
 * [tic-tac-toe](https://github.com/rudil24/tic-tac-toe) Completed using OPST 0.4 logic via Gemini Antigravity IDE
 * [img-watermark](https://github.com/rudil24/img-watermark) Completed using Tkinter/Pillow backend logic via Google Antigravity & AI Studio Gen Image
+* [typing-test](https://github.com/rudil24/typing-test) Completed using TKinter via Claude Code (first day on the job with Claude!)
 
 ### Rev 0.3: I Plan, You Do (Jan 2026)
 
