@@ -6,7 +6,7 @@ Where do my tooling assets live? Where does my source code live? How and where d
 
 As you can see in the graphic below, I've uncoupled the team assets from the project assets, to make sure the learning flows up and out of the projects and into the team.
 
-![Build Digital Footprint](buildDF.svg)
+![Build Digital Footprint](buildFootprint.svg)
 
 * The root or home workspace (mine is called `webdev`) has a distinction between the `_OPST` team repository and the individual projects they build. That way, the team advancement is decoupled from the project(s) themselves.
   * the folder is "underline OPST" because I like it showing up at the top of my workspace folder list in my browser/terminal/IDE
