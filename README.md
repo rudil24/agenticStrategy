@@ -87,6 +87,7 @@ We'll optimize the human workload and focus where it's advantageous to have the 
 * [typing-test](https://github.com/rudil24/typing-test) Completed using TKinter via Claude Code (first day on the job with Claude!)
 * [buzz-arcade](https://github.com/rudil24/buzz-arcade) First game "Ice-Out" completed using Pygbag/Python backend logic via Google Antigravity and a variety of LLM models (Gemini 3.1 Pro High, Pro Low, Pro Planning, and when those tokens ran out, Sonnet 4.6)
 * [cafe-wifi](https://github.com/rudil24/cafe-wifi) Coffee shop London database in python/flask (Claude Code assisted)
+* [text-chaser-app](https://github.com/rudil24/text-chaser-app) Completed using PyQt6 via Claude Code (very creative app mocks!)
 
 ### Rev 0.3: I Plan, You Do (Jan 2026)
 
