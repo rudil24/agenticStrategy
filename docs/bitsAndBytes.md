@@ -52,11 +52,11 @@ I can deploy client side Javascript code to GitHub Pages, FOR FREE UNLIMITED, [e
 
 ### PERN or Python/Flask Full Stack demo
 
-I have a $6/month database set up with Render.com (just so they don't flush the database every 30 days), and I set up the database partitioned so I can just add new projects with new partitions and not buy a new database every time. You could do this for free too, as long as you don't mind them wiping customer data every 30 days. The only downside of this setup is since I'm too cheap to buy the pro plan that gets you a spun-up web server ($20/month), my demo customers get the "app booting up" as a user experience. (sometimes lasts up to a minute).
+I have a $6/month database set up with Render.com (just so they don't flush the database every 30 days), and I set up the database "soft-partitioned" (via SCHEMA commands) so I can just add new projects with a new SCHEMA name and not buy a new database every time. You could do this for free too, as long as you don't mind them wiping customer data every 30 days. The only downside of this setup is since I'm too cheap to buy the pro plan that gets you a spun-up web server ($20/month), my demo customers get the "app booting up" as a user experience. (sometimes lasts up to a minute).
 
 ### PERN stack "grow into production"
 
-I've heard exciting things about Railway.com, so I think that'll be what I try when I "just know" I have a production hit on my hands, and I want it to grow from $5/month to wherever it needs to go.  Hopefully it doesn't turn out like [jmail.world on Vercel](https://www.reddit.com/r/webdev/comments/1r3cplc/jmailworld/)]
+I've heard exciting things about Railway.com, so I think that'll be what I try when I "just know" I have a production hit on my hands, and I want it to grow from $5/month to wherever it needs to go. Hopefully I can catch my wildly successful futures and port them to serverless before they mushroom __past the limits of sensibility in Platform-as-a-Service scaling__, like [jmail.world did on Vercel](https://www.reddit.com/r/webdev/comments/1r3cplc/jmailworld/)
 
 ### Serverless? Maybe someday
 

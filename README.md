@@ -32,21 +32,25 @@ Using good project management skills, the team will move projects from stage to 
 
 ![OPST Process](./docs/OPST_Process.svg)
 
-* Scope: Defines the customer, the project, and the feasability.
+* Scope stage
+  * Defines the customer, the project, and the feasability.
   * What we're building and most importantly __*who we're building it for*__ goes into a __Product Requirements Document__
     * Getting to a good PRD is a challenge, we do it through a `project-kickoff` workflow that includes a `prd` skill.
   * Who we're going to need on the team for this project and their persona of skills goes into a __Team Roster__
   * What's it going to cost (in time and money) goes into a preliminary __Budget__ table
-* Design: Defines what the end product will look like and how we get there. Should give us enough of a feel that we feel confident in starting to build
+* Design stage
+  * Defines what the end product will look like and how we get there. Should give us enough of a feel that we feel confident in starting to build
   * The technical frameworks, diagrams, and tasks go into a __Design Doc__
   * The graphical design and flow go into wireframes aka __UI/UX Mockups__
-* Development:
+* Development stage
   * Deliver minimum viable product code that is functional, and ready to test end-to-end
-* Test: Use a combination of automated, agentic, and manual testing to sniff out bugs and problematic flows
+* Test stage 
+  * Use a combination of automated, agentic, and manual testing to sniff out bugs and problematic flows
   * Deliver "hardened" code that passes all user requirements for this version of the software.
-* Deploy. All of this is hokum if we don't __ship real code__.
-  * hosting options and service price envelopes
-  * important to end the project with __Reflection__ and analysis that feeds back via a continuous improvement loop
+* Deploy stage
+  * All the rest of this is __hokum__ if we don't __ship real code__.
+  * The team builds intelligence to choose from hosting options based on stack requirements, pricing, usage estimates, etc.
+  * Important to end this stage and the entire project with __Reflection and analysis__ that feeds back via a continuous improvement loop
 
 > As you can see from the "workload" section of the diagram, with a move to agentic teams we're trying to "right-size" the human involvement and maximize the team involvement at every stage.
 
@@ -62,17 +66,17 @@ For more details about the specific dev tools in my environment, see [docs/devTo
 
 ### The Digital Footprint
 
-This is all good in theory but how do the bits/bytes actually come together.
+This is all good in theory but how do the bits and bytes actually come together for real AI-guided development.
 
 #### The Workbench
 
-The folders and files for my OPST installation. see [docs/bitsAndBytes.md](./docs/bitsAndBytes.md)
+The workbench holds all the tools and standards AND the folders and files they fit into for my OPST installation. see [docs/bitsAndBytes.md](./docs/bitsAndBytes.md) for a full explanation.
 
 #### The Runtime
 
 The source code can be either PERN, Python/Flask, or a combination of the two.
 (And really, it can be anything, those are just the two that I'm familiar and feel comfortable working in.)
-The runtimes can be deployed to any cloud provider, or run locally.
+The runtimes can be deployed to a stack-compatible cloud provider and/or run locally.
 See [docs/appHosting.md](./docs/appHosting.md) for more details.
 
 ## Project Log (most recent first)
